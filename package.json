@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Guilherme Oliveira Souza",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
